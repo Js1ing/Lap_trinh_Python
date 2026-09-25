@@ -21,3 +21,4 @@ def fibonacci_de_quy(n):
 for i in range(10):
     print(fibonacci_de_quy(i), end=" ")
 print()
+print("Fibonacci(30) =", fibonacci_de_quy(30))
